@@ -48,7 +48,7 @@ Target reconstruction error is evaluated via Mean Squared Error (MSE).
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/YOUR_USERNAME/AstroAnomaly-Net.git
+git clone https://github.com/wajidsipra4906-png/AstroAnomaly-Net.git
 cd AstroAnomaly-Net
 pip install -r requirements.txt
 ```
